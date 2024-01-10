@@ -3,6 +3,6 @@
 
 :star2: Разделы Pet Projects :star2: 
 - PP#1 - Metrics(Classification/Regression) & Development of a ML Decision Tree algorithm
-- ###
+- PP#2 - A visual representation of the implementation of the gradient boosting algorithm and a comparison of the ensemble method with the decision tree
 
 :incoming_envelope: Мой Telegram: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)]("https://t.me/nnnnnnnnnnnnnnkkkk")
